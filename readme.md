@@ -17,6 +17,37 @@ Matplotlib<br>
 OpenCv<br>
 Keras <br>
 
-<h3>For better project information start with <a href = "https://github.com/q-viper/Devanagari-Character-Word-Recognition/blob/master/Proj_demonstration.ipynb">Project Demonstration</a>.<br> 
-	
-	
+<h3>For better project information start with <a href = "https://github.com/q-viper/Devanagari-Character-Word-Recognition/blob/master/Proj_demonstration.ipynb">Project Demonstration</a>.<br></h3> 
+<h3> Some snaps</h3>
+
+* Model
+![Model](assests/1.png)
+
+* Loss
+![Loss](assests/2.jpg)
+
+* Accuracy
+![Accuracy](assests/3.png)
+
+* Image testing
+![Image testing](assests/4.png)
+
+* False prediction
+![False Prediction](assests/5.png)
+
+* Image Cropping (ROI)
+![Cropping](assests/border.png)
+
+![Cropping](assests/cropped.png)
+
+* Eliminating top
+![Tope Removed](assests/toplose.png)
+
+* Segmenting
+![Segmentation](assests/segmentingtest.PNG)
+
+* Localization
+![Localization](assests/improvedloc.jpg)
+
+* Detection
+![Detection](assests/detection.png)
