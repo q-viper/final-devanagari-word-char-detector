@@ -63,7 +63,6 @@ def camera(flag):
                 print("Doing RT...")
                 recognition(ogray, 'no')
            
-            
             else:
                 if(orig != 0):
                     show = frame[:]
